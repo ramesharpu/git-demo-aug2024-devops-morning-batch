@@ -22,15 +22,21 @@ public class HelloWorld {
 		System.out.println("from m2");
 	}
 
-	//from c1
-	public void m3() {//from c111+dev2 changes
-		System.out.println("from m3");
-
-	}
-
+	
 	//from c111 + dev2 code change
 	public void m6() {//from c111+dev2 changes
 		System.out.println("from m6");
+	}
+
+	//from c1
+	public void m3() {//from b111+d1 changes + //from c111+dev2 changes
+		System.out.println("from m3");
+
+	}
+	
+	//from dev1 ==> b111 branch
+	public void m5() {
+		System.out.println("from m5");
 
 	}
 }
