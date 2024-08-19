@@ -23,8 +23,14 @@ public class HelloWorld {
 	}
 
 	//from c1
-	public void m3() {
+	public void m3() {//from c111+dev2 changes
 		System.out.println("from m3");
+
+	}
+
+	//from c111 + dev2 code change
+	public void m6() {//from c111+dev2 changes
+		System.out.println("from m6");
 
 	}
 }
