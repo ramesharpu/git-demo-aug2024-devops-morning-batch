@@ -16,4 +16,9 @@ public class HelloWorld {
 	public void m2() {
 		System.out.println("from m2");
 	}
+	
+	//from c1
+	public void m3() {
+		System.out.println("from m3");
+	}
 }
