@@ -7,4 +7,8 @@ public class HelloWorld {
 
 	}
 
+	//demonstrate the pull command
+	public void m1() {
+		System.out.println("from m1");
+	}
 }
