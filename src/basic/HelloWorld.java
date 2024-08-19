@@ -17,8 +17,12 @@ public class HelloWorld {
 		System.out.println("from m2");
 	}
 
-	//from d1 branch by dev-2
 	public void m4() {
 		System.out.println("from m2");
+
+	//from c1
+	public void m3() {
+		System.out.println("from m3");
+
 	}
 }
