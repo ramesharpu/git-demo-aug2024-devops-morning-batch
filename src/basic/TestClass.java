@@ -21,4 +21,12 @@ public class TestClass {
 	public void tm3() {
 		System.out.println("from tm3");
 	}
+	
+	//from z1 branch
+	public void tm5() {
+		int a = 5;
+		int b = 10;
+		int c = a + b;
+		System.out.println("sum = " + c);
+	}
 }
