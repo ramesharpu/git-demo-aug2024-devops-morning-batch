@@ -11,4 +11,9 @@ public class TestClass {
 	public void tm2() {
 		System.out.println("from tm2");
 	}
+
+	//from y1 branch + dev2 code changes
+	public void tm4() {
+		System.out.println("from tm4");
+	}
 }
