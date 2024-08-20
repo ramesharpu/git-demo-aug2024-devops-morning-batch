@@ -29,4 +29,30 @@ public class TestClass {
 		int c = a + b;
 		System.out.println("sum = " + c);
 	}
+	
+	//from z11 branch
+	public void tm6() {
+		int a = 25;
+		int b = 5;
+		int c = a / b;
+		System.out.println("result of division = " + c);
+	}
+	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
