@@ -11,4 +11,8 @@ public class TestClass {
 	public void tm2() {
 		System.out.println("from tm2");
 	}
+	
+	public void secDemo() {
+		System.out.println("hello there");
+	}
 }
